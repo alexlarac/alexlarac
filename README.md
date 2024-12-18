@@ -30,4 +30,4 @@ Soy un estudiante terminando el grado de Ingeniería Informática en la Universi
 
 #
 
-*Contacto*: laracontrerasalejandro@gmail.com
+*Contacto*: laracontrerasalejandro@gmail.com / www.linkedin.com/in/alejandrolarac/
