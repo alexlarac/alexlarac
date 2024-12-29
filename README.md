@@ -10,7 +10,6 @@ Soy un estudiante terminando el grado de Ingeniería Informática en la Universi
 - Java
 - Python
 - SQL
-- MongoDB
 - Conocimientos básicos sobre desarrollo y usabilidad WEB
 
 ### Herramientas
