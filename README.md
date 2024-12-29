@@ -16,7 +16,7 @@ Soy un estudiante terminando el grado de Ingeniería Informática en la Universi
 
 - Git
 
-### Others
+### Otros
 
 - Procesamiento y minería de datos
 - Algoritmos de aprendizaje automático
